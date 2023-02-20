@@ -1,0 +1,10 @@
+C:\Users\moatt\source\repos\NumerickaIntegrace\bin\Debug\NumerickaIntegrace.exe.config
+C:\Users\moatt\source\repos\NumerickaIntegrace\bin\Debug\NumerickaIntegrace.exe
+C:\Users\moatt\source\repos\NumerickaIntegrace\bin\Debug\NumerickaIntegrace.pdb
+C:\Users\moatt\source\repos\NumerickaIntegrace\obj\Debug\NumerickaIntegrace.csproj.AssemblyReference.cache
+C:\Users\moatt\source\repos\NumerickaIntegrace\obj\Debug\NumerickaIntegrace.Form1.resources
+C:\Users\moatt\source\repos\NumerickaIntegrace\obj\Debug\NumerickaIntegrace.Properties.Resources.resources
+C:\Users\moatt\source\repos\NumerickaIntegrace\obj\Debug\NumerickaIntegrace.csproj.GenerateResource.cache
+C:\Users\moatt\source\repos\NumerickaIntegrace\obj\Debug\NumerickaIntegrace.csproj.CoreCompileInputs.cache
+C:\Users\moatt\source\repos\NumerickaIntegrace\obj\Debug\NumerickaIntegrace.exe
+C:\Users\moatt\source\repos\NumerickaIntegrace\obj\Debug\NumerickaIntegrace.pdb
